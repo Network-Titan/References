@@ -1,3 +1,5 @@
+# Simplify the manual steps from here - https://smartadvocate.atlassian.net/wiki/spaces/DOC/pages/96076054/Installation+of+Plugins+for+SmartAdvocate+Cloud
+
 New-Item -Path HKCU:\Software -Name SmartAdvocate
 
 New-Item -Path HKCU:\Software\SmartAdvocate -Name OutlookAddin
